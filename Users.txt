@@ -1,0 +1,17 @@
+ADMIN
+1)	Username-Janith
+	Password-Janith
+
+2)	Username-Rayan
+	Password-Rayan
+
+HR Manager
+1)	Username-Malith
+	Password-Malith
+
+2)	Username-Ravindu
+	Password-Ravindu
+
+HR Assistant
+1)	Username-Nadun
+	Password-Nadun
